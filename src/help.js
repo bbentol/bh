@@ -17,7 +17,7 @@ const help = () => {
 	'❥ *#gifsticker [captionVideo]*\n\n' +
 	'✧ Others Commands ✧\n' +
 	'❥ *#ping*\n' +
-	'❥ *#catfot\n' +
+	'❥ *#catfot*\n' +
 	'❥ *#meme*\n' +
 	'❥ *#pokemon*\n' +
 	'❥ *#toimg [reply]*\n\n' +
